@@ -16,8 +16,8 @@
 2.
 3.
 ### Java Tutorial
-1.
-2.
+1. [How to create bot in Mixin messenger and reply message to user](https://github.com/wenewzhang/mixin_labs-java-bot)| [中文](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README-zhchs.md)
+2. [How to receive Bitcoin and send Bitcoin in Mixin Messenger](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README2.md)| [中文](https://github.com/wenewzhang/mixin_labs-java-bot/blob/master/README2-zhchs.md)
 
 ### Go lang Tutorial
 
